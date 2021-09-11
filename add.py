@@ -11,3 +11,5 @@ def resistance (v,i):
 # Calculating Current
 def current(v,r):
     return v/r
+
+print("print")
